@@ -1,0 +1,15 @@
+## Interface: 60200
+## Author: Sinaris
+## Title: HypocrisyUI
+## Notes: :)
+## Version: 1.0
+
+Core\Globals.lua
+Core\Config.lua
+Core\Functions.lua
+
+Modules\ActionBars\ActionBars.lua
+Modules\ExperienceBar\ExperienceBar.lua
+Modules\ReputationBar\ReputationBar.lua
+
+Core\LoadModules.lua
